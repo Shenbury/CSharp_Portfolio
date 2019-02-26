@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\madLibs\madLibs\obj\Debug\madLibs.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\madLibs\madLibs\bin\Debug\madLibs.exe.config
+D:\Users\Admin\source\repos\madLibs\madLibs\bin\Debug\madLibs.exe
+D:\Users\Admin\source\repos\madLibs\madLibs\bin\Debug\madLibs.pdb
+D:\Users\Admin\source\repos\madLibs\madLibs\obj\Debug\madLibs.exe
+D:\Users\Admin\source\repos\madLibs\madLibs\obj\Debug\madLibs.pdb

@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\newTutorial\newTutorial\bin\Debug\newTutorial.exe.config
+D:\Users\Admin\source\repos\newTutorial\newTutorial\bin\Debug\newTutorial.exe
+D:\Users\Admin\source\repos\newTutorial\newTutorial\bin\Debug\newTutorial.pdb
+D:\Users\Admin\source\repos\newTutorial\newTutorial\obj\Debug\newTutorial.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\newTutorial\newTutorial\obj\Debug\newTutorial.exe
+D:\Users\Admin\source\repos\newTutorial\newTutorial\obj\Debug\newTutorial.pdb

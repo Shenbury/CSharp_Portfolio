@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\objectMethods\objectMethods\obj\Debug\objectMethods.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\objectMethods\objectMethods\bin\Debug\objectMethods.exe.config
+D:\Users\Admin\source\repos\objectMethods\objectMethods\bin\Debug\objectMethods.exe
+D:\Users\Admin\source\repos\objectMethods\objectMethods\bin\Debug\objectMethods.pdb
+D:\Users\Admin\source\repos\objectMethods\objectMethods\obj\Debug\objectMethods.exe
+D:\Users\Admin\source\repos\objectMethods\objectMethods\obj\Debug\objectMethods.pdb

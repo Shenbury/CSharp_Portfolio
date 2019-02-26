@@ -1,0 +1,7 @@
+D:\Users\Admin\source\repos\tenInterfaces\tenInterfaces\bin\Debug\tenInterfaces.exe.config
+D:\Users\Admin\source\repos\tenInterfaces\tenInterfaces\bin\Debug\tenInterfaces.exe
+D:\Users\Admin\source\repos\tenInterfaces\tenInterfaces\bin\Debug\tenInterfaces.pdb
+D:\Users\Admin\source\repos\tenInterfaces\tenInterfaces\obj\Debug\vehicleInterfaces.csprojAssemblyReference.cache
+D:\Users\Admin\source\repos\tenInterfaces\tenInterfaces\obj\Debug\vehicleInterfaces.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\tenInterfaces\tenInterfaces\obj\Debug\tenInterfaces.exe
+D:\Users\Admin\source\repos\tenInterfaces\tenInterfaces\obj\Debug\tenInterfaces.pdb

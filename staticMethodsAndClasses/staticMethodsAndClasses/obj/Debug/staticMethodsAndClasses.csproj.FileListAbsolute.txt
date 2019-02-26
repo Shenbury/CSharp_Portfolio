@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\staticMethodsAndClasses\staticMethodsAndClasses\bin\Debug\staticMethodsAndClasses.exe.config
+D:\Users\Admin\source\repos\staticMethodsAndClasses\staticMethodsAndClasses\bin\Debug\staticMethodsAndClasses.exe
+D:\Users\Admin\source\repos\staticMethodsAndClasses\staticMethodsAndClasses\bin\Debug\staticMethodsAndClasses.pdb
+D:\Users\Admin\source\repos\staticMethodsAndClasses\staticMethodsAndClasses\obj\Debug\staticMethodsAndClasses.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\staticMethodsAndClasses\staticMethodsAndClasses\obj\Debug\staticMethodsAndClasses.exe
+D:\Users\Admin\source\repos\staticMethodsAndClasses\staticMethodsAndClasses\obj\Debug\staticMethodsAndClasses.pdb

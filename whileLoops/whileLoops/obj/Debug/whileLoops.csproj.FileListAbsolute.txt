@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\whileLoops\whileLoops\bin\Debug\whileLoops.exe.config
+D:\Users\Admin\source\repos\whileLoops\whileLoops\bin\Debug\whileLoops.exe
+D:\Users\Admin\source\repos\whileLoops\whileLoops\bin\Debug\whileLoops.pdb
+D:\Users\Admin\source\repos\whileLoops\whileLoops\obj\Debug\whileLoops.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\whileLoops\whileLoops\obj\Debug\whileLoops.exe
+D:\Users\Admin\source\repos\whileLoops\whileLoops\obj\Debug\whileLoops.pdb

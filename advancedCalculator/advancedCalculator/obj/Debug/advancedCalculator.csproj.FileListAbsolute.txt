@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\advancedCalculator\advancedCalculator\bin\Debug\advancedCalculator.exe.config
+D:\Users\Admin\source\repos\advancedCalculator\advancedCalculator\bin\Debug\advancedCalculator.exe
+D:\Users\Admin\source\repos\advancedCalculator\advancedCalculator\bin\Debug\advancedCalculator.pdb
+D:\Users\Admin\source\repos\advancedCalculator\advancedCalculator\obj\Debug\advancedCalculator.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\advancedCalculator\advancedCalculator\obj\Debug\advancedCalculator.exe
+D:\Users\Admin\source\repos\advancedCalculator\advancedCalculator\obj\Debug\advancedCalculator.pdb

@@ -1,0 +1,7 @@
+D:\Users\Admin\source\repos\switchStatements\switchStatements\bin\Debug\switchStatements.exe.config
+D:\Users\Admin\source\repos\switchStatements\switchStatements\bin\Debug\switchStatements.exe
+D:\Users\Admin\source\repos\switchStatements\switchStatements\bin\Debug\switchStatements.pdb
+D:\Users\Admin\source\repos\switchStatements\switchStatements\obj\Debug\switchStatements.csprojAssemblyReference.cache
+D:\Users\Admin\source\repos\switchStatements\switchStatements\obj\Debug\switchStatements.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\switchStatements\switchStatements\obj\Debug\switchStatements.exe
+D:\Users\Admin\source\repos\switchStatements\switchStatements\obj\Debug\switchStatements.pdb

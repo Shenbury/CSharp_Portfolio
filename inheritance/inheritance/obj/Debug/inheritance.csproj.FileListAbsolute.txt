@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\inheritance\inheritance\bin\Debug\inheritance.exe.config
+D:\Users\Admin\source\repos\inheritance\inheritance\bin\Debug\inheritance.exe
+D:\Users\Admin\source\repos\inheritance\inheritance\bin\Debug\inheritance.pdb
+D:\Users\Admin\source\repos\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\inheritance\inheritance\obj\Debug\inheritance.exe
+D:\Users\Admin\source\repos\inheritance\inheritance\obj\Debug\inheritance.pdb

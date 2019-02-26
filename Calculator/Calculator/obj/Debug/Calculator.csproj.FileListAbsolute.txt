@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Users\Admin\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Users\Admin\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Users\Admin\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Users\Admin\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb

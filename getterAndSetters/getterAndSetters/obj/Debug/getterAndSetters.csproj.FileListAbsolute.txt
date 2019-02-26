@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\getterAndSetters\getterAndSetters\bin\Debug\getterAndSetters.exe.config
+D:\Users\Admin\source\repos\getterAndSetters\getterAndSetters\bin\Debug\getterAndSetters.exe
+D:\Users\Admin\source\repos\getterAndSetters\getterAndSetters\bin\Debug\getterAndSetters.pdb
+D:\Users\Admin\source\repos\getterAndSetters\getterAndSetters\obj\Debug\getterAndSetters.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\getterAndSetters\getterAndSetters\obj\Debug\getterAndSetters.exe
+D:\Users\Admin\source\repos\getterAndSetters\getterAndSetters\obj\Debug\getterAndSetters.pdb

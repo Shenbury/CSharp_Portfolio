@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\IfStatementsAgain\IfStatementsAgain\obj\Debug\IfStatementsAgain.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\IfStatementsAgain\IfStatementsAgain\bin\Debug\IfStatementsAgain.exe.config
+D:\Users\Admin\source\repos\IfStatementsAgain\IfStatementsAgain\bin\Debug\IfStatementsAgain.exe
+D:\Users\Admin\source\repos\IfStatementsAgain\IfStatementsAgain\bin\Debug\IfStatementsAgain.pdb
+D:\Users\Admin\source\repos\IfStatementsAgain\IfStatementsAgain\obj\Debug\IfStatementsAgain.exe
+D:\Users\Admin\source\repos\IfStatementsAgain\IfStatementsAgain\obj\Debug\IfStatementsAgain.pdb

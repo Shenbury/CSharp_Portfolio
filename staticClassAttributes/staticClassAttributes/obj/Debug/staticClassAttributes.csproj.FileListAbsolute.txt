@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\staticClassAttributes\staticClassAttributes\bin\Debug\staticClassAttributes.exe.config
+D:\Users\Admin\source\repos\staticClassAttributes\staticClassAttributes\bin\Debug\staticClassAttributes.exe
+D:\Users\Admin\source\repos\staticClassAttributes\staticClassAttributes\bin\Debug\staticClassAttributes.pdb
+D:\Users\Admin\source\repos\staticClassAttributes\staticClassAttributes\obj\Debug\staticClassAttributes.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\staticClassAttributes\staticClassAttributes\obj\Debug\staticClassAttributes.exe
+D:\Users\Admin\source\repos\staticClassAttributes\staticClassAttributes\obj\Debug\staticClassAttributes.pdb

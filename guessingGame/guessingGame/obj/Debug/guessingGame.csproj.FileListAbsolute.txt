@@ -1,0 +1,6 @@
+D:\Users\Admin\source\repos\guessingGame\guessingGame\bin\Debug\guessingGame.exe.config
+D:\Users\Admin\source\repos\guessingGame\guessingGame\bin\Debug\guessingGame.exe
+D:\Users\Admin\source\repos\guessingGame\guessingGame\bin\Debug\guessingGame.pdb
+D:\Users\Admin\source\repos\guessingGame\guessingGame\obj\Debug\guessingGame.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\guessingGame\guessingGame\obj\Debug\guessingGame.exe
+D:\Users\Admin\source\repos\guessingGame\guessingGame\obj\Debug\guessingGame.pdb
